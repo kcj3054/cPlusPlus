@@ -13,5 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\연산자오버라이딩">
+      <UniqueIdentifier>{8c0b27e7-6bc4-4a50-94ee-363036b4e37e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\상속">
+      <UniqueIdentifier>{cf646df6-4ab8-4606-9c86-ba4c6fa94abf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="UtilizedMethod.cpp">
+      <Filter>소스 파일\연산자오버라이딩</Filter>
+    </ClCompile>
+    <ClCompile Include="Inheri.cpp">
+      <Filter>소스 파일\상속</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
